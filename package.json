@@ -1,0 +1,28 @@
+{
+  "name": "express-grpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thitiphongD/node-express-grpc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thitiphongD/node-express-grpc/issues"
+  },
+  "homepage": "https://github.com/thitiphongD/node-express-grpc#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.8.0",
+    "@grpc/proto-loader": "^0.7.4",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "uuid": "^9.0.0"
+  }
+}
